@@ -1,0 +1,16 @@
+pandas
+numpy
+nltk
+scikit-learn
+spacy
+streamlit
+PyPDF2
+python-docx
+language-tool-python
+matplotlib
+seaborn
+streamlit
+scikit-learn
+pandas
+PyMuPDF
+numpy
