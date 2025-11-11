@@ -487,6 +487,10 @@ else:
                         st.markdown(f"- {l}")
                 else:
                     st.success("Resume closely matches this role!")
-
+st.markdown("""
+<hr style="border: none; border-top: 1px solid #e5e7eb; margin-top: 40px; margin-bottom: 15px;">
+<div style='text-align: center; color: #94a3b8; font-size: 0.9rem;'>
+     <b>Build by Vansh Gupta</b>
+</div>
 # -------------------- Footer --------------------
 st.markdown("---")
