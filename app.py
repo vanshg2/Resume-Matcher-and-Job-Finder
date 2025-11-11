@@ -492,5 +492,6 @@ st.markdown("""
 <div style='text-align: center; color: #94a3b8; font-size: 0.9rem;'>
      <b>Build by Vansh Gupta</b>
 </div>
+""", unsafe_allow_html=True)
 # -------------------- Footer --------------------
 st.markdown("---")
