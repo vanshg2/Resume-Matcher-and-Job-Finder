@@ -9,7 +9,8 @@ python-docx
 language-tool-python
 matplotlib
 seaborn
-streamlit
+streamlit==1.19.0
+altair==4.2.2
 scikit-learn
 pandas
 PyMuPDF
