@@ -293,7 +293,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown(
-    "<div class='header-card'><h1>📄 Resume Matcher & Role Finder</h1>"
+    "<div class='header-card'><h1>📄 Smart Resume Screening and Career Recommendation Platform</h1>"
     "<div class='small'>Choose whether you want to match your resume to a specific job or find roles that suit your resume. Upload a PDF resume to begin.</div></div>",
     unsafe_allow_html=True
 )
